@@ -884,7 +884,7 @@ sagittis lacus vel augue laoreet rutrum faucibus.">
                                 <vue-fontawesome icon="paper-plane" class="mr-2"></vue-fontawesome>
                                 A simple primary alert—check it out!
                             </base-alert>
-                            <base-alert class="py-3" color="secondary">
+                            <base-alert class="py-3" color="secondary text-white">
                                 <vue-fontawesome icon="life-ring" class="mr-2"></vue-fontawesome>
                                 A simple secondary alert—check it out!
                             </base-alert>

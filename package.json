@@ -1,6 +1,6 @@
 {
-  "name": "vue-apollo-ui-design-system",
-  "version": "0.1.0",
+  "name": "vue-apollo-design-system",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",

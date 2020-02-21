@@ -1,7 +1,7 @@
 # Vue Apollo Design System
-Hi there, Vue Apollo Design System is open source UI-KIT for Vue lovers based on Bootcatch Apollo Theme thanks :)
+Vue Apollo Design System is open source UI-KIT for Vue lovers based on Bootcatch Apollo Theme thanks :)
 
-[![NPM](https://img.shields.io/npm/v/fa-react-icon.svg)](https://www.npmjs.com/package/fa-react-icon)  [![NPM](https://img.shields.io/npm/dt/fa-react-icon.svg)](https://www.npmjs.com/package/fa-react-icon) 
+[![NPM](https://img.shields.io/npm/v/vue-apollo-design-system.svg)](https://www.npmjs.com/package/vue-apollo-design-system)  [![NPM](https://img.shields.io/npm/dt/vue-apollo-design-system.svg)](https://www.npmjs.com/package/vue-apollo-design-system) 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Table of Contents
@@ -14,25 +14,23 @@ Hi there, Vue Apollo Design System is open source UI-KIT for Vue lovers based on
 * [Copyright and License](#copyright-and-license)
 
 ## First Shot
-[![card-blog](https://raw.githubusercontent.com/ajaymarathe/image-store/master/vue-uikit/vue-apollo.png)](http://preview.bootcatch.com/vue-apollo-design-system/)
+[![vue-apollo-design-system](https://raw.githubusercontent.com/ajaymarathe/image-store/master/vue-uikit/vue-apollo.png)](http://preview.bootcatch.com/vue-apollo-design-system/)
 
 ## Quick Start
 ```
+$  npm i vue-apollo-design-system --save
+
+Or
 //Clone the repo.
 
 $ git clone https://github.com/ajaymarathe/vue-apollo-design-system.git  
-
-//After cloning Hit following commands.
-
-$ npm install
-
-$ npm run serve
 ```
 
-## Usage
+## [Usage](http://blog.bootcatch.com/post/vue-components-based-design-system-is-based-on-bootcatch-themes-and-vue)
 
-After downloading, you can do whatever you want to do, like you can modify all the componenets and css and then make awesome templates as you want.
-hope this will help you.
+After download you can simply import DesignSystem in your main.js file and then you ready to use.
+
+[Read Docs](http://blog.bootcatch.com/post/vue-components-based-design-system-is-based-on-bootcatch-themes-and-vue)
 
 ## About
 

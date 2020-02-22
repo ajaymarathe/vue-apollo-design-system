@@ -30,6 +30,15 @@ $ git clone https://github.com/ajaymarathe/vue-apollo-design-system.git
 
 After download you can simply import DesignSystem in your main.js file and then you ready to use.
 
+```js
+// change the path of your design system
+// import DesignSystem from '<your design system/>/plugins/DesignSystem';
+
+import DesignSystem from 'vue-supine-design-system/plugins/DesignSystem';  // import here
+
+Vue.use(DesignSystem);  // use imported designSystem in Vue.use()
+```
+
 [Read Docs](http://blog.bootcatch.com/post/vue-components-based-design-system-is-based-on-bootcatch-themes-and-vue)
 
 ## About
